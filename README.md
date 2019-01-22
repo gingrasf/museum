@@ -1,6 +1,7 @@
 # To use in Collab
 
 * Go [here](https://colab.research.google.com/drive/1DLjOVIUt7f2tcP7GP70BoI7HrvmitjKQ)
+* Copy the notebook to a space where you can edit it.
 * Go to the left > menu and import museum.py from this repo (if it's not there already)
 * Execute -> Execute all
 
