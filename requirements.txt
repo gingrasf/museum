@@ -1,0 +1,9 @@
+lxml
+pandas
+numpy
+jupyter
+matplotlib
+statsmodels
+pathlib
+sklearn
+pymongo

@@ -1,0 +1,55 @@
+museum,city,nb_visitor_per_year,year,city_wikibase_id,museum_wikibase_id,population,collection_size,museums_type_ids,museums_type,is_art_museum,is_science_museum,is_national_museum,is_nat_history_museum,nb_of_interesting_type,has_public_transit
+Louvre,Paris,8100000,2017,Q90,Q19675,2240621,460000,"['Q207694', 'Q17431399', 'Q3329412']","['art museum', 'national museum', 'archaeological museum']",1,0,1,0,2,1
+National Museum of China,Beijing,8062625,2017,Q956,Q1074318,21516000,-9999,"['Q174782', 'Q17431399']",['national museum'],0,0,1,0,1,1
+National Air and Space Museum,"Washington, D.C.",7000000,2017,Q61,Q752669,8144,-9999,['Q4828724'],['aviation museum'],0,0,0,0,0,1
+Metropolitan Museum of Art,New York City,6692909,2017,Q60,Q160236,8405837,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+Vatican Museums,Vatican City,6427277,2017,Q237,Q182955,1000,-9999,"['Q207694', 'Q17431399']","['art museum', 'national museum']",1,0,1,0,2,1
+Shanghai Science and Technology Museum,Shanghai,6421000,2017,Q8686,Q855376,23390000,-9999,['Q33506'],['museum'],0,0,0,0,0,1
+National Museum of Natural History,"Washington, D.C.",6000000,2017,Q61,Q148554,8144,-9999,['Q1970365'],['natural history museum'],0,0,0,1,1,1
+British Museum,London,5906716,2017,Q84,Q6373,1011157,8000000,['Q17431399'],['national museum'],0,0,1,0,1,1
+Tate Modern,London,5656004,2017,Q84,Q193375,1011157,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+National Gallery of Art,"Washington, D.C.",5232000,2017,Q61,Q214867,8144,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+National Gallery,London,5229192,2017,Q84,Q180788,1011157,-9999,"['Q207694', 'Q24699794', 'Q358']","['art museum', 'museum building']",1,0,0,0,1,1
+American Museum of Natural History,New York City,5000000,2017,Q60,Q217717,8405837,-9999,['Q1970365'],['natural history museum'],0,0,0,1,1,0
+National Palace Museum,Taipei,4435000,2017,Q1867,Q540668,2655515,-9999,"['Q17431399', 'Q33506']","['national museum', 'museum']",0,0,1,0,1,0
+Natural History Museum,London,4435000,2017,Q84,Q309388,1011157,-9999,"['Q1970365', 'Q17431399']","['natural history museum', 'national museum']",0,0,1,1,2,1
+State Hermitage Museum,Saint Petersburg,4220000,2017,Q656,Q132783,149700,-9999,"['Q28737012', 'Q207694']","['museum of culture', 'art museum']",1,0,0,0,1,1
+China Science and Technology Museum,Beijing,3983000,2017,Q956,Q1074292,21516000,-9999,"['Q2398990', 'Q588140']","['technology museum', 'science museum']",0,1,0,0,1,1
+Reina Sofía,Madrid,3897000,2017,Q2807,Q7310218,3207247,-9999,['Q4167410'],[],0,0,0,0,0,0
+National Museum of American History,"Washington, D.C.",3800000,2017,Q61,Q148584,8144,-9999,['Q16735822'],['history museum'],0,0,0,0,0,1
+Victoria and Albert Museum,London,3789748,2017,Q84,Q213322,1011157,-9999,"['Q33506', 'Q1200701', 'Q207694', 'Q17000320']","['museum', 'design museum', 'art museum', 'theatre museum']",1,0,0,0,1,1
+Zhejiang Museum,Hangzhou,3670000,2017,Q4970,Q1278762,6604000,-9999,['Q33506'],['museum'],0,0,0,0,0,0
+National Museum of Korea,Seoul,3476606,2017,Q8684,Q494407,9904312,-9999,['Q17431399'],['national museum'],0,0,1,0,1,0
+Centre Pompidou,Paris,3371000,2017,Q90,Q178065,2240621,-9999,"['Q207694', 'Q17431399']","['art museum', 'national museum']",1,0,1,0,2,0
+Gansu Provincial Museum,Gansu,3350000,2017,Q42392,Q2114104,25575254,-9999,['Q33506'],['museum'],0,0,0,0,0,1
+Nanjing Museum,Nanjing,3300000,2017,Q16666,Q1815891,8187800,-9999,['Q207694'],['art museum'],1,0,0,0,1,0
+London Science Museum,London,3251000,2017,Q84,Q674773,1011157,-9999,"['Q588140', 'Q2398990']","['science museum', 'technology museum']",0,1,0,0,1,1
+Somerset House,London,3223350,2017,Q84,Q1344889,1011157,-9999,['Q41176'],[],0,0,0,0,0,0
+Musée d'Orsay,Paris,3178000,2017,Q90,Q23402,2240621,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+National September 11 Museum,New York City,3100000,2017,Q60,Q1136137,8405837,-9999,"['Q33506', 'Q5003624', 'Q570116']",['museum'],0,0,0,0,0,0
+National Art Center,Tokyo,2987000,2017,Q1490,Q6970489,13784212,-9999,['Q4167410'],[],0,0,0,0,0,0
+Museo del Prado,Madrid,2824000,2017,Q2807,Q160112,3207247,8637,"['Q207694', 'Q17431399', 'Q4989906']","['art museum', 'national museum']",1,0,1,0,2,1
+Chongqing Museum of Natural History,Chongqing,2830000,2017,Q11725,Q18201907,7990000,-9999,['Q1970365'],['natural history museum'],0,0,0,1,1,0
+Museum of Modern Art,New York City,2750000,2017,Q60,Q188740,8405837,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+National Folk Museum of Korea,Seoul,2714000,2017,Q8684,Q486449,9904312,-9999,['Q17431399'],['national museum'],0,0,1,0,1,1
+Shaanxi History Museum,Xi'an,2713465,2017,Q5826,Q1151210,7270000,-9999,['Q16735822'],['history museum'],0,0,0,0,0,0
+Royal Museums Greenwich,London,2607099,2017,Q84,Q7374509,1011157,-9999,['Q33506'],['museum'],0,0,0,0,0,0
+National Museum of Nature and Science,Tokyo,2600000,2017,Q1490,Q74940,13784212,-9999,"['Q17431399', 'Q588140']","['national museum', 'science museum']",0,1,1,0,2,0
+Chongqing Science and Technology Museum,Chongqing,2560000,2017,Q11725,Q17038935,7990000,-9999,['Q588140'],['science museum'],0,1,0,0,1,0
+China Art Museum,Shanghai,2550000,2017,Q8686,Q5099572,23390000,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+National Gallery of Victoria,Melbourne,2522696,2017,Q3141,Q1464509,4347955,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+Mevlana Museum,Konya,2500000,2017,Q79857,Q902957,2161303,-9999,['Q33506'],['museum'],0,0,0,0,0,0
+Cité des Sciences et de l'Industrie,Paris,2439000,2017,Q90,Q1094338,2240621,-9999,['Q17431399'],['national museum'],0,0,1,0,1,1
+National Museum of African American History and Culture,"Washington, D.C.",2400000,2017,Q61,Q3073495,8144,36000,['Q54934129'],['African-American museum'],0,0,0,0,0,1
+National Museum of Anthropology,Mexico City,2336115,2017,Q1489,Q524249,8918653,-9999,"['Q17431399', 'Q24699794']","['national museum', 'museum building']",0,0,1,0,1,1
+Houston Museum of Natural Science,Houston,2295000,2017,Q16555,Q610401,2195914,-9999,['Q588140'],['science museum'],0,1,0,0,1,1
+Galleria degli Uffizi,Florence,2200000,2017,Q2044,Q51252,377207,-9999,['Q1497364'],[],0,0,0,0,0,0
+Rijksmuseum,Amsterdam,2160000,2017,Q727,Q190804,825080,8000,"['Q17431399', 'Q207694', 'Q16735822']","['national museum', 'art museum', 'history museum']",1,0,1,0,2,1
+National Museum of Scotland,Edinburgh,2165601,2017,Q23436,Q1633842,483000,-9999,"['Q17431399', 'Q33506']","['national museum', 'museum']",0,0,1,0,1,0
+National Museum of History,Mexico City,2135465,2017,Q1489,Q3330688,8918653,-9999,"['Q16735822', 'Q17431399', 'Q33506']","['history museum', 'national museum', 'museum']",0,0,1,0,1,1
+Auschwitz-Birkenau Memorial and Museum,Oświęcim,2100000,2017,Q7342,Q819729,39057,-9999,['Q2772772'],['military museum'],0,0,0,0,0,1
+Van Gogh Museum,Amsterdam,2100000,2017,Q727,Q224124,825080,-9999,['Q207694'],['art museum'],1,0,0,0,1,1
+Three Gorges Museum,Chongqing,2112000,2017,Q11725,Q10872783,7990000,-9999,['Q33506'],['museum'],0,0,0,0,0,0
+Shanghai Museum,Shanghai,2109200,2017,Q8686,Q1051293,23390000,-9999,['Q33506'],['museum'],0,0,0,0,0,1
+California Science Center,Los Angeles,2106000,2017,Q65,Q1067376,3976322,-9999,['Q33506'],['museum'],0,0,0,0,0,1
+Tretyakov Gallery,Moscow,2024000,2017,Q649,Q183334,1174700,-9999,"['Q207694', 'Q8346700', 'Q24699794']","['art museum', 'museum building']",1,0,0,0,1,0

@@ -1,0 +1,17 @@
+{
+    "cityLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Heze"
+    },
+    "population": {
+        "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+        "type": "literal",
+        "value": "8750000"
+    },
+    "gps": {
+        "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+        "type": "literal",
+        "value": "Point(115.47358 35.23929)"
+    }
+}
