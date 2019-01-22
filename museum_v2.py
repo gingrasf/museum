@@ -391,7 +391,7 @@ def fetch_data(no_mongo=False):
 
 def main():
     museums_df = get_most_visited_museums(force_reload=False, no_mongo=True)
-    # linear_regression_prediction(museums_df, 'population')
+    linear_regression_prediction(museums_df, 'population')
     # multiple_linear_regression_prediction(museums_df, ['population', 'is_art_museum', 'is_national_museum', 'is_science_museum', 'is_nat_history_museum', 'nb_of_interesting_type','has_public_transit'])
     # linear_regression(museums_df, 'population')
     # variable = 'population'
@@ -400,4 +400,5 @@ def main():
     # plot_base_chart(city_pop, museum_visit)
     # museum_visit_prediction = create_and_plot_regression_model(city_pop, museum_visit)
 
+# Uncomment to test locally
 # main()
