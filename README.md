@@ -1,9 +1,17 @@
+# To use in Collab
+
+* Go [here](https://colab.research.google.com/drive/1DLjOVIUt7f2tcP7GP70BoI7HrvmitjKQ)
+* Go to the left > menu and import museum.ppy from this repo
+* Execute -> Execute all
+
+Note that the first time it can be slow due to downloading the data. After it's download, it'll be persisted in a csv file for futre uses.
+
 # Prerequisite
 
 * Docker
 * Docker Compose
 
-## To launch
+## To launch using Docker
 ```
 docker-compose up
 ```
